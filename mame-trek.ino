@@ -18,7 +18,7 @@ int spinClock = 3;
 int spinData = 2;
 
 // Pins and Keyboard key mapping
-// List: buttonWarp, buttonPhoton, buttonPhaser, buttonCoin1, buttonCoin2, buttonPlayer1, buttonPlayer2
+// List: buttonWarp, buttonPhoton, buttonPhaser, buttonThrust, buttonCoin1, buttonCoin2, buttonPlayer1, buttonPlayer2
 char buttonList[8] = {KEY_LEFT_CTRL, KEY_LEFT_SHIFT, KEY_LEFT_ALT, ' ', '5', '6','1','2'};
 
 // Pins to read for each button
